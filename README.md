@@ -1,13 +1,12 @@
-# Cloud Native Security
+# Cloud Native Security 🔥
 
 This is a detailed checklist for securing your kubernetes environment. 
-I will keep adding more things as I hear/learn more about the security recommendations.
 
 - Checkout https://github.com/gunjan5/container-security for a high level container security recommendations.
-
 - This is part of my talk at Ignite Europe 2019. 
-
 - You can find the slides here: https://bit.ly/cloud-native-security-slides
+
+![](security-integration-points.png)
 
 ## Kubernetes Security Checklist
 
